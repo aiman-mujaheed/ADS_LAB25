@@ -1,9 +1,15 @@
-|   DATE   | LAB-TASKS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 25/10/02 | [Task 01 - System calls of UNIX (opendir, readdir, closedir)](25_10_02-Task1-2/task_1.c)  <br/>[Task 02 - System calls of UNIX (fork, getpid, exit)](25_10_02-Task1-2/task_2.c)|
-| 25/10/09 | [Task 01 - Program for simulation of cp UNIX command](25_10_09-Task1-2-3/task_1.c) <br/>[Task 02 - Program for simulation of ls UNIX command](25_10_09-Task1-2-3/task_2.c) <br/>[Task 03 - Program for simulation of grep UNIX command](25_10_09-Task1-2-3/task_3.c)|
-| 25/10/16 | [Task 01 - Shell Program - Even or Odd](25_10_16-Task1-2-3-4/task_1.sh) <br/>[Task 02 - Shell Program - Checking Leap Year](25_10_16-Task1-2-3-4/task_2.sh) <br/>[Task 03 - Shell Program - Factorial of a Number](25_10_16-Task1-2-3-4/task_3.sh) <br/>[Task 04 - Shell Program - Swap two Numbers](25_10_16-Task1-2-3-4/task_4.sh)|
-| 25/10/23 | [Task 01 - CPU Scheduling Algorithms - Priority](25_10_23-Task1-2-3-4/task_1.c) <br/>[Task 02 - CPU Scheduling Algorithms - Round Robin](25_10_23-Task1-2-3-4/task_2.c) <br/>[Task 03 - CPU Scheduling Algorithms - FCFS](25_10_23-Task1-2-3-4/task_3.c) <br/>[Task 04 - CPU Scheduling Algorithms - SJF](25_10_23-Task1-2-3-4/task_4.c)|
-| 25/10/30 | [Task 01 - Producer Consumer Problem Using Semaphores](25_10_30-Task1-2/task_1.c) <br/>[Task 02 - IPC Using Shared Memory](25_10_30-Task1-2/task_2.c)|
-| 25/11/06 | [Task 01 - Bankers Algorithm For Deadlock Avoidance](25_11_06-Task1-2-3/task_1.c) <br/>[Task 02 - Algorithm For Deadlock Detection](25_11_06-Task1-2-3/task_2.c) <br/>[Task 03 - Threading & Synchronization Applications](25_11_06-Task1-2-3/task_3.c)|
+###  TEB1113 / TFB2023 - ADS Course All Lab Tasks - GitHub Repository  
+#### Author - WAN 
+
+___  
+
+### Tasks Overview  
+| 📅 **Date** | 🧠 **Topic** | 💻 **Lab Tasks** |
+|:------------:|:-------------|:----------------|
+| 25/09/25 | **Struct** | [🧩 **Task 01**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_09_25/task1.cpp) |
+| 25/10/02 | **Matrix** | [🟢 **Task 01 - Easy**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_10_02/task2_easy.cpp) <br> [🟡 **Task 02 - Medium**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_10_02/task2_medium.cpp) <br> [🔴 **Task 03 - Hard**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_10_02/task2_hard.cpp) |
+| 25/10/16 | **Linked List** | [🔗 **Task 01 - Single Linked List**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_10_16-Task1/task_1.cpp) <br> [🔁 **Task 02 - Double Linked List**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_10_16-Task1/task_2.cpp) |
+| 25/10/23 | **Modified Linked List** | [🔄 **Task 01 - Modified Single Linked List**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_10_23/modifiedtask1.cpp) <br> [🔄 **Task 02 - Modified Double Linked List**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_10_16-Task1/task_2.cpp) |
+| 25/11/06 | **Modified Queue** | [🔄 **Task 01 - Modified Queue Single Linked List**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_11_6/queuetask1.cpp) <br> [🔄 **Task 02 - Modified Queue Double Linked List**](https://github.com/n1shikenshin/TEB1113_ADS/blob/main/25_11_6/queuetask2.cpp) |
+
 ___
